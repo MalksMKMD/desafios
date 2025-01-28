@@ -5,7 +5,7 @@ titulo.innerHTML = "Hora do Desafio";
 function consolebutton(){
     console.log('O botào console foi precionado');
 }
-
+console.log("oloko");
 function alertaamor(){
     alert('Eu amo JS');
 }
