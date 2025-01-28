@@ -9,7 +9,7 @@ console.log("oloko");
 function alertaamor(){
     alert('Eu amo JS');
 }
-
+console.log("Commit é o caralho")
 function cidadeprompt(){
     let cidade = prompt("Diz uma cidade ai");
     alert("Estive em " + cidade + " e lembrei de vc");
