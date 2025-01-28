@@ -1,4 +1,5 @@
 alert("Oi");
+console.log("apaga tudo");
 titulo = document.querySelector("h1");
 titulo.innerHTML = "Hora do Desafio";
 
